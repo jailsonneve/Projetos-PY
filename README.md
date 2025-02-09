@@ -19,13 +19,13 @@ Aqui estão as principais tecnologias usadas em cada projeto:
 <div align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40" alt="Python logo" title="Python" />
     <img width="12" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Numpy_logo_2020.svg" height="40" alt="NumPy logo" title="NumPy" />
+    <img src="https://imgs.search.brave.com/6zZLE6ZqLbqKYhdIFtf04Fn61rdnd1qCfiUCxJCVn4I/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9udW1w/eS5vcmcvaW1hZ2Vz/L2xvZ28uc3Zn" height="40" alt="NumPy logo" title="NumPy" />
     <img width="12" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Pandas_logo.svg" height="40" alt="Pandas logo" title="Pandas" />
+    <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" height="40" alt="Pandas logo" title="Pandas" />
     <img width="12" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Matplotlib_logo.svg" height="40" alt="Matplotlib logo" title="Matplotlib" />
+    <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" height="40" alt="Matplotlib logo" title="Matplotlib" />
     <img width="12" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Scikit-learn_logo.svg" height="40" alt="Scikit-learn logo" title="Scikit-learn" />
+    <img src="https://imgs.search.brave.com/A4LD1NXlyzwj1N4F7X-n2YeFAR3sAxmWmHW0TJptlOc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi8wLzA1L1Nj/aWtpdF9sZWFybl9s/b2dvX3NtYWxsLnN2/Zy8yMjBweC1TY2lr/aXRfbGVhcm5fbG9n/b19zbWFsbC5zdmcu/cG5n" height="40" alt="Scikit-learn logo" title="Scikit-learn" />
 </div>
 
 ---
