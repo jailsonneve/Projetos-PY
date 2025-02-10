@@ -33,17 +33,8 @@ Aqui estão as principais tecnologias usadas em cada projeto:
 ## 📂 Projetos Disponíveis
 
 ### Exemplos de Projetos
-1. **[Análise de Dados com Pandas](https://github.com/jailsonneve/Projetos-Python/tree/main/Projetos/analise-de-dados)**  
-   Um projeto para análise de dados com a biblioteca Pandas, incluindo leitura de arquivos CSV e manipulação de dados.
 
-2. **[Aplicativo de Previsão de Temperatura](https://github.com/jailsonneve/Projetos-Python/tree/main/Projetos/previsao-temperatura)**  
-   Um aplicativo que usa dados meteorológicos para prever a temperatura usando machine learning (SciKit-learn).
-
-3. **[Script de Automação de Tarefas](https://github.com/jailsonneve/Projetos-Python/tree/main/Projetos/automacao-tarefas)**  
-   Um script que automatiza tarefas do sistema, como movimentação de arquivos, limpeza de pastas e envio de e-mails.
-
-4. **[API RESTful com Flask](https://github.com/jailsonneve/Projetos-Python/tree/main/Projetos/api-flask)**  
-   Uma API simples desenvolvida com Flask, com endpoints para gerenciamento de dados em banco de dados SQLite.
+### Ainda em desenvolvimento 
 
 ---
 
