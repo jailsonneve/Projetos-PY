@@ -33,7 +33,7 @@ def enviar_email():
         # Conectar ao servidor SMTP
         server = smtplib.SMTP('smtp.gmail.com', 587)
         server.starttls()
-        server.login('daiarthur053@gmail.com', 'sescesenaC2@')
+        server.login('daiarthur053@gmail.com', 'sua_senha')
 
         # Enviar o e-mail
         server.sendmail(msg['From'], msg['To'], msg.as_string())
